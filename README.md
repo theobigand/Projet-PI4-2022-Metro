@@ -6,7 +6,7 @@ Pour l'utiliser il suffit de lancer l'application, comme expliqué ci-dessous, d
 
 ## Comment lancer le projet:
 
-( Depuis le dossier principal projetms1/ )
+( Depuis le dossier principal)
 
 ```bash
 $ javac gui/GUI.java
